@@ -4,7 +4,7 @@
 作品主要展示三部分：BI看板、Python分析代码、专题分析报告
 
 ## 转化漏斗专题
-<img width="991" height="822" alt="image" src="https://github.com/user-attachments/assets/4823aa89-52b6-4261-a1d7-724b6f3584eb" />
+流量转化漏斗流失归因专题分析报告&AB测试设计方案.pdf
 
 ## 📈FineBI仪表盘
 
@@ -18,12 +18,12 @@
 
 ## 📉客服中心脱敏作品
 该部分包含内容如下，由于看板数据不变脱敏，此处不放真实报告截图
-<img width="430" height="332" alt="image" src="https://github.com/user-attachments/assets/4753e471-5883-4cfc-864d-36478727a480" />
+
 
 ![客服中心-报告设计](客服中心脱敏作品/管理层报告.jpg)
 
 专题分析代码与结果展示
-<img width="852" height="692" alt="image" src="https://github.com/user-attachments/assets/503465e4-a420-4ac0-8c8d-5fdea4699363" />
+![客服中心-报告设计](客服中心脱敏作品/对话时长专项探索分析-原代码.pdf)
 
 部分指标体系展示
 ![客服中心-报告设计](客服中心脱敏作品/退货审核指标体系.jpg)
